@@ -1,0 +1,6 @@
+pandas
+transformers
+bertopic
+umap-learn
+scikit-learn
+tqdm
